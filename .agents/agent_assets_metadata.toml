@@ -1,0 +1,30 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "5NdVYwH1DZAWeyVJVQGJc"
+uri = "file://catplot.png"
+type = "image"
+title = "Cardio outcomes by health feature"
+description = "The categorical counts for cholesterol, glucose, smoking, alcohol, activity, and overweight, split by cardiovascular disease outcome."
+logical_id = "c8e620a9-6e58-4130-83d3-e7b00aeaf9aa"
+content_hash = "sha256:22e5657f37b23a148d0c6040966c8717fb6fefaa68ec29e3af484114c051b8a4"
+size = 26677
+mtime_ms = 1794661832134
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:42ffc812-98b5-4e5a-a74f-a872ba49b868/c8e620a9-6e58-4130-83d3-e7b00aeaf9aa/45032afa-96ee-4027-987b-956568f1a992"
+storage_version_token = "1794661866189604"
+content_type = "image/png"
+
+[[outputs]]
+id = "11DKm3dDvYDB0IEV-gcfz"
+uri = "file://heatmap.png"
+type = "image"
+title = "Medical data correlation heat map"
+description = "Lower-triangle correlations after filtering invalid blood pressure and extreme height and weight records."
+logical_id = "cc8c7ab6-ffc0-4604-9d2b-39e7ed053e91"
+content_hash = "sha256:93ce5052c571b7e4e662bd69a9ed634c85ba2eea6f0d9159cb8843df65f0e8d3"
+size = 81404
+mtime_ms = 1794661835702
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:42ffc812-98b5-4e5a-a74f-a872ba49b868/cc8c7ab6-ffc0-4604-9d2b-39e7ed053e91/06b12745-89fa-4819-b01f-a129467f9e59"
+storage_version_token = "1794661867492402"
+content_type = "image/png"

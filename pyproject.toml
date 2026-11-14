@@ -1,0 +1,14 @@
+[project]
+name = "medical-data-visualizer"
+version = "1.0.0"
+description = "Visualize health examination data with pandas, seaborn, and matplotlib."
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.1",
+    "seaborn>=0.13.2",
+]
+
+[tool.uv]
+package = false
